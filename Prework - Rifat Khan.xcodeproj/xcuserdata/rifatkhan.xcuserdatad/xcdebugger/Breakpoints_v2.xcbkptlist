@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC2FFBBD-47D1-4C56-B397-06D170ACD9B5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE4ADE9D-44A5-477A-8BDD-8293FC06C0A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prework - Rifat Khan/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FE4ADE9D-44A5-477A-8BDD-8293FC06C0A2 - 63c811a7b96f702"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework___Rifat_Khan.ViewController.billAmountTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Prework - Rifat Khan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rifatkhan/Desktop/Prework%20-%20Rifat%20Khan/Prework%20-%20Rifat%20Khan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FE4ADE9D-44A5-477A-8BDD-8293FC06C0A2 - 3266b6a36c0a5eea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework___Rifat_Khan.ViewController.billAmountTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Prework - Rifat Khan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rifatkhan/Desktop/Prework%20-%20Rifat%20Khan/Prework%20-%20Rifat%20Khan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "FE4ADE9D-44A5-477A-8BDD-8293FC06C0A2 - c53b0eb3486fae98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework___Rifat_Khan.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Prework - Rifat Khan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rifatkhan/Desktop/Prework%20-%20Rifat%20Khan/Prework%20-%20Rifat%20Khan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "FE4ADE9D-44A5-477A-8BDD-8293FC06C0A2 - 54afb6619b696cec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework___Rifat_Khan.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Prework - Rifat Khan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rifatkhan/Desktop/Prework%20-%20Rifat%20Khan/Prework%20-%20Rifat%20Khan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "FE4ADE9D-44A5-477A-8BDD-8293FC06C0A2 - 3307e056d0f96fe4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework___Rifat_Khan.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Prework___Rifat_Khan.ViewController"
+                  moduleName = "Prework - Rifat Khan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rifatkhan/Desktop/Prework%20-%20Rifat%20Khan/Prework%20-%20Rifat%20Khan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "FE4ADE9D-44A5-477A-8BDD-8293FC06C0A2 - 7e7015c9b07dc734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prework___Rifat_Khan.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Prework___Rifat_Khan.ViewController&gt;"
+                  moduleName = "Prework - Rifat Khan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rifatkhan/Desktop/Prework%20-%20Rifat%20Khan/Prework%20-%20Rifat%20Khan/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1FF740F-3444-4A79-8852-175EAEE20E9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prework - Rifat Khan/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E8FC35D-C031-4903-A475-B6845B671D97"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prework - Rifat Khan/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
