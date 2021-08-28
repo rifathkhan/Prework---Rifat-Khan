@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here is a GIF overview of some of the user stories.
 
-![](https://imgur.com/a/qP4XeR2.gif)
+(https://imgur.com/a/qP4XeR2.gif)
 
 ## Notes
 
